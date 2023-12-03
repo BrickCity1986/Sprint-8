@@ -1,1 +1,1 @@
-# Sprint-8
+I started by attempting to create a scatter plot using seaborn's scatterplot() function. 
